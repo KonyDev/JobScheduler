@@ -11,7 +11,7 @@ Application to showcase the JS binding feature of Kony Studio using JobScheduler
 
 1. Download the project
 2. Import project to your Kony IDE(Studioviz).
-3. Enable Mobile First Api's in the project setting ->native ->android.
+3. Enable Mobile First Api's in the project setting >native >android.
 4. Build & run the app for android.
 
 # Supported platforms:
