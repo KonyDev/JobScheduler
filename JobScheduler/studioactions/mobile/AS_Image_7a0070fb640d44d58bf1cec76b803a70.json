@@ -1,0 +1,23 @@
+{
+    "AS_Image_7a0070fb640d44d58bf1cec76b803a70": {
+        "id": "AS_Image_7a0070fb640d44d58bf1cec76b803a70",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLogIn",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9a7a86262c1c417482ab4a13ad17bcbd"
+        },
+        "actions": []
+    }
+}

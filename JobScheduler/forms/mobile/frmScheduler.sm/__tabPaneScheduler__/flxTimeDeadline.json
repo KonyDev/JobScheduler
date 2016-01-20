@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc521991fc0747d499d2e075523d8d6c",
+    "_top_": {
+        "type": "string",
+        "value": "51%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblDeadLine",
+        "CopyLabel09d04cbc041324e",
+        "txtDeadline",
+        "Label01b856ca7ea434e"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxTimeDeadline",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6ce824c0f8284587ac0c79bcad073883",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer07800686bed244d",
+    "pf": "frmScheduler",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabpaneId": "tabPaneScheduler",
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

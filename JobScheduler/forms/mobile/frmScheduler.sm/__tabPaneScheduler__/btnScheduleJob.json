@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sade3ee4353e49f09ab56af4529f7d47",
+    "_text_": "Schedule Job",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0eab15dcdb749bcaea4f71e79dee87e",
+    "id": "btnScheduleJob",
+    "ide_onClick": "AS_Button_4270ed5fc5b04ba0b801016be2107003",
+    "info": null,
+    "isvisible": true,
+    "kuid": "87db1ab055c04e308c05b00e2d717dea",
+    "name": "kony.ui.Button",
+    "parent": "flxScheduleCancleBtn",
+    "pf": "frmScheduler",
+    "tabpaneId": "tabPaneScheduler",
+    "wType": "Button",
+    "zindex": 1
+}

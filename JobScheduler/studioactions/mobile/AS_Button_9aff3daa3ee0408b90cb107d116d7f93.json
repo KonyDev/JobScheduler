@@ -1,0 +1,25 @@
+{
+    "AS_Button_9aff3daa3ee0408b90cb107d116d7f93": {
+        "id": "AS_Button_9aff3daa3ee0408b90cb107d116d7f93",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduler",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dce4329935824bc08f82f0623d2a0039"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a6e234c8a18c4d02ad05ec0e659e47f7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cancel",
+            "display": "cancel",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

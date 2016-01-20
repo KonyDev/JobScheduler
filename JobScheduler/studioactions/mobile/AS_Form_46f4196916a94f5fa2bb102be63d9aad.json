@@ -1,0 +1,25 @@
+{
+    "AS_Form_46f4196916a94f5fa2bb102be63d9aad": {
+        "id": "AS_Form_46f4196916a94f5fa2bb102be63d9aad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduler",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dce4329935824bc08f82f0623d2a0039"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5b54e30369ed4e4794cf2ebaeb13d848",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onFormPostShow",
+            "display": "onFormPostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

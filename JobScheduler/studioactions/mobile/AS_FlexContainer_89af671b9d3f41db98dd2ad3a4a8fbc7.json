@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_89af671b9d3f41db98dd2ad3a4a8fbc7": {
+        "id": "AS_FlexContainer_89af671b9d3f41db98dd2ad3a4a8fbc7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "tmpRunningJobs",
+            "type": "templates",
+            "platform": "",
+            "KUID": "4aeed67c275c43f2a459aea208efe433"
+        },
+        "actions": []
+    }
+}

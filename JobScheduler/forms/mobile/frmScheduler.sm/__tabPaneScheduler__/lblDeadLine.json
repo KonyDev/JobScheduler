@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_skin_": "s314c5ff49c047dfaed7fe1891bb9f83",
+    "_text_": "Time Deadline",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblDeadLine",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "812cc2d27ddd4526b8e56e64efe9d093",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxTimeDeadline",
+    "pf": "frmScheduler",
+    "tabpaneId": "tabPaneScheduler",
+    "tooltip": "",
+    "wType": "Label"
+}

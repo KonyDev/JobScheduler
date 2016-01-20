@@ -1,0 +1,87 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_skin_": "s4ff5fbe877e44efb9271c5e45d622d1",
+    "_top_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "rdbConnectivity",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 2
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "7b9883bf66e34a96a47ab9411cf167eb",
+    "masterdata": [
+        [
+            "Any",
+            "Any"
+        ],
+        [
+            "Wifi",
+            "Wifi"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "paddinginpixel": false,
+    "parent": "flxConnectivity",
+    "pf": "frmScheduler",
+    "selectedkey": "Any",
+    "selectedkeyvalue": [
+        "Any",
+        "Any"
+    ],
+    "size": 18,
+    "tabpaneId": "tabPaneScheduler",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

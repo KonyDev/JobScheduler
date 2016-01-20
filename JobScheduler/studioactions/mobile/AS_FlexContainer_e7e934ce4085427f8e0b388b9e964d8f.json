@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_e7e934ce4085427f8e0b388b9e964d8f": {
+        "id": "AS_FlexContainer_e7e934ce4085427f8e0b388b9e964d8f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "tmpRunningJobs",
+            "type": "templates",
+            "platform": "",
+            "KUID": "4aeed67c275c43f2a459aea208efe433"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__1482d9d1e3db408e8879a30525c68359",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frmLogIn.imgSwitch.src===\"switch_on\")\n  frmLogIn.imgSwitch.src=\"switch_off.png\";\nelse\n  frmLogIn.imgSwitch.src=\"switch_on.png\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

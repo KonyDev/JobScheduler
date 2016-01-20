@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s77fdd0c006748ec959045819d2e10c9",
+    "_text_": "",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtDeadline",
+    "info": null,
+    "isvisible": true,
+    "keyboardstyle": "digitpad",
+    "keyboardtype": "A",
+    "kuid": "7ce011ea216b4a6b92f527ffdf1fec36",
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxTimeDeadline",
+    "pf": "frmScheduler",
+    "securetextentry": false,
+    "tabpaneId": "tabPaneScheduler",
+    "textinputmode": "N",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

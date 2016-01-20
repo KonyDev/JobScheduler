@@ -1,0 +1,29 @@
+{
+    "AS_Segment_4555d65f4b3f4a52a03798076de1cc5d": {
+        "id": "AS_Segment_4555d65f4b3f4a52a03798076de1cc5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmScheduler",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dce4329935824bc08f82f0623d2a0039"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__84c0cf12321f47dfa3ea8c0fd1dcbdcb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

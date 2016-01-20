@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTab",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sab15ac1a900443288e696a841e23172",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxNoRunningJobs",
+        "flxRunningJobs"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "tabJobsRunning",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4ca3c999f83745fc9d5ae366512f208d",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "paddinginpixel": false,
+    "parent": "tabPaneScheduler",
+    "pf": "frmScheduler",
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabname": "Running Jobs",
+    "tabpaneId": "tabPaneScheduler",
+    "wType": "Tab"
+}

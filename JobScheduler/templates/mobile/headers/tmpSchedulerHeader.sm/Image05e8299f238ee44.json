@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s65a5006ea6a4305beaa71ea58583cab",
+    "_src_": "logout.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "android",
+        "templateType": "headers",
+        "topLevelBox": null
+    },
+    "id": "Image05e8299f238ee44",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isSegmentChild": false,
+    "isvisible": true,
+    "kuid": "dd23e605400c4df0af3adcbe049d58a7",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0e9e13100a10449",
+    "pf": "tmpSchedulerHeader",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

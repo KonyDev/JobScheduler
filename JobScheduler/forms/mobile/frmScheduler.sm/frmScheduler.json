@@ -1,0 +1,287 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_headers_": [
+        {
+            "Button0997921e4dec849": {
+                "@class": "com.kony.gen.viz.model.component.KVizButton",
+                "DNDConfig": null,
+                "__parentReadjusting__": false,
+                "_height_": {
+                    "type": "string",
+                    "value": "35dp"
+                },
+                "_left_": {
+                    "type": "string",
+                    "value": "305dp"
+                },
+                "_margin_": [
+                    6,
+                    6,
+                    6,
+                    6
+                ],
+                "_padding_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_skin_": "s98f0790e79d496b81962b27fe254304",
+                "_text_": "",
+                "_top_": {
+                    "type": "string",
+                    "value": "15dp"
+                },
+                "_width_": {
+                    "type": "string",
+                    "value": "46dp"
+                },
+                "canUpdateUI": true,
+                "containerId": true,
+                "containerweight": 100,
+                "contentalignment": 5,
+                "displaytext": true,
+                "focusskin": "s489486de9ba4428b952145827d254af",
+                "genericProperties": {},
+                "id": "Button0997921e4dec849",
+                "info": null,
+                "isSegmentChild": false,
+                "isvisible": true,
+                "kuid": "3e2f2660511449f5b5b3408c084631f3",
+                "name": "kony.ui.Button",
+                "parent": "flxHeader",
+                "pf": "tmpSchedulerHeader",
+                "undoPropsStorage": {},
+                "wType": "Button",
+                "zindex": 1
+            },
+            "DNDConfig": null,
+            "_height_": {
+                "type": "string",
+                "value": "20%"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_orientation_": 6,
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_percent_": true,
+            "_skin_": "sc521991fc0747d499d2e075523d8d6c",
+            "allboxes": [],
+            "autogrowmode": 0,
+            "canUpdateUI": true,
+            "children": [
+                "lblHome",
+                "Button0997921e4dec849"
+            ],
+            "clipbounds": true,
+            "containerId": true,
+            "containerweight": 100,
+            "enablescrolling": true,
+            "genericProperties": {},
+            "id": "flxHeader",
+            "info": null,
+            "isSegmentChild": false,
+            "isvisible": true,
+            "kuid": "9b3e275a4c8b4d5b961ca16f27bf1c38",
+            "layouttype": 2,
+            "lblHome": {
+                "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                "DNDConfig": null,
+                "__parentReadjusting__": false,
+                "_height_": {
+                    "type": "ref",
+                    "value": "preferred"
+                },
+                "_left_": {
+                    "type": "string",
+                    "value": "135dp"
+                },
+                "_margin_": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "_padding_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_skin_": "sdffe83523554b51a41c9d64ed9c19d4",
+                "_text_": "Home",
+                "_top_": {
+                    "type": "string",
+                    "value": "15dp"
+                },
+                "_width_": {
+                    "type": "ref",
+                    "value": "preferred"
+                },
+                "_wrapping_": 2,
+                "android": {
+                    "textStyle": {
+                        "letterSpacing": 0,
+                        "strikeThrough": false
+                    }
+                },
+                "canUpdateUI": true,
+                "containerId": true,
+                "containerweight": 100,
+                "contentalignment": 4,
+                "genericProperties": {
+                    "wrapping": 2
+                },
+                "id": "lblHome",
+                "info": null,
+                "ipad": {
+                    "psp": {
+                        "wrapping": 2
+                    }
+                },
+                "iphone": {
+                    "psp": {
+                        "wrapping": 2
+                    }
+                },
+                "isSegmentChild": false,
+                "isvisible": true,
+                "kuid": "687e89758a8f40538aaeb4daa3155ef0",
+                "name": "kony.ui.Label",
+                "parent": "flxHeader",
+                "pf": "tmpSchedulerHeader",
+                "tooltip": "",
+                "wType": "Label"
+            },
+            "name": "kony.ui.FlexContainer",
+            "parent": "tmpSchedulerHeader",
+            "pf": "tmpSchedulerHeader",
+            "snapgridsize": 10,
+            "snaptogrid": true,
+            "undoPropsStorage": {},
+            "wType": "FlexContainer",
+            "widgetalignment": 1
+        }
+    ],
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8f1104f08cf4747a9ab98f6e8c8b079",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "tabPaneScheduler"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyS5",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "header": "frmScheduler_header",
+    "headersId": "620448f963694c918626bdbabc237a2c",
+    "id": "frmScheduler",
+    "ide_postShow": "AS_Form_46f4196916a94f5fa2bb102be63d9aad",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": {
+        "desktopweb": {
+            "needAppMenu": false
+        },
+        "ipad": {
+            "psp": {
+                "inputAccessoryViewType": 4
+            }
+        },
+        "iphone": {
+            "psp": {
+                "inputAccessoryViewType": 4,
+                "titleBarConfig": {
+                    "buttonClosureLeftSideView": "",
+                    "buttonClosureRightSideView": "",
+                    "buttonText": "Edit",
+                    "leftButtonText": "Back",
+                    "leftTitle": "Back",
+                    "prevFormTitle": false,
+                    "renderTitleText": true,
+                    "rightTitle": "Edit",
+                    "titleBarLeftSideView": "button",
+                    "titleBarRightSideView": "button",
+                    "titleClosureLeftSideView": "",
+                    "titleClosureRightSideView": "",
+                    "visible": true
+                }
+            },
+            "titleBar": true
+        }
+    },
+    "invokedProperty": "headers",
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": true
+            }
+        },
+        "titleBar": true
+    },
+    "isvisible": true,
+    "kuid": "dce4329935824bc08f82f0623d2a0039",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "android",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS5",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

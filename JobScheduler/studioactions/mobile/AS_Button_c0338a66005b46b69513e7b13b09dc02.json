@@ -1,0 +1,24 @@
+{
+    "AS_Button_c0338a66005b46b69513e7b13b09dc02": {
+        "id": "AS_Button_c0338a66005b46b69513e7b13b09dc02",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduler",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dce4329935824bc08f82f0623d2a0039"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_7747c78224bd46c0b093ab6d3d75460c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "scheduleJob",
+            "display": "scheduleJob",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

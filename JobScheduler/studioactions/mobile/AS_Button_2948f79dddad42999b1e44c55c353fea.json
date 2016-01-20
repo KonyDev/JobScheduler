@@ -1,0 +1,17 @@
+{
+    "AS_Button_2948f79dddad42999b1e44c55c353fea": {
+        "id": "AS_Button_2948f79dddad42999b1e44c55c353fea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduler",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dce4329935824bc08f82f0623d2a0039"
+        },
+        "actions": []
+    }
+}

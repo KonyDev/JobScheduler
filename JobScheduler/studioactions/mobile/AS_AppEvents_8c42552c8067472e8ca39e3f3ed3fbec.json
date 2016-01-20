@@ -1,0 +1,17 @@
+{
+    "AS_AppEvents_8c42552c8067472e8ca39e3f3ed3fbec": {
+        "id": "AS_AppEvents_8c42552c8067472e8ca39e3f3ed3fbec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__8b271d7f3adc400b8aa5875d979ace5b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setGestureRecogniserTofrmScheduler();\nsetDeleteButtonCallBack();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

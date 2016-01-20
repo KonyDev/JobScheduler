@@ -1,0 +1,23 @@
+{
+    "AS_Tab_69945b165e114a9a80baae71931271c1": {
+        "id": "AS_Tab_69945b165e114a9a80baae71931271c1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmScheduler",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dce4329935824bc08f82f0623d2a0039"
+        },
+        "actions": []
+    }
+}

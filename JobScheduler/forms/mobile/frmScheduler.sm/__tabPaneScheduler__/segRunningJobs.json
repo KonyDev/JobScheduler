@@ -1,0 +1,156 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "delete.png"
+            },
+            "lblJobId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblRunningJobDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description "
+            },
+            "lblRunningJobName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Job Name"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "delete.png"
+            },
+            "lblJobId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblRunningJobDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description "
+            },
+            "lblRunningJobName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Job Name"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "delete.png"
+            },
+            "lblJobId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblRunningJobDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description "
+            },
+            "lblRunningJobName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Job Name"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segRunningJobs",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "599c7712873946b7bb3b7d1108d933bd",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxRunningJobs",
+    "pf": "frmScheduler",
+    "retainselection": false,
+    "rowTemplateId": "4aeed67c275c43f2a459aea208efe433",
+    "rowcounter": 2,
+    "rowfocusskin": "sd905f9ac13b40db92098cb4a9983610",
+    "rowskin": "s0ea627ae4734dbd8c7e9ca3d541f861",
+    "rowtemplate": "flxTmpRunningjobs1",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s393fb8f683c4d7294ec94478975c7df",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "b9b9b900",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "tabpaneId": "tabPaneScheduler",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer02f5da4f4604247": "FlexContainer02f5da4f4604247",
+        "flxTmpRunningjobs": "flxTmpRunningjobs",
+        "flxTmpRunningjobs1": "flxTmpRunningjobs1",
+        "imgDelete": "imgDelete",
+        "lblJobId": "lblJobId",
+        "lblRunningJobDesc": "lblRunningJobDesc",
+        "lblRunningJobName": "lblRunningJobName"
+    }
+}

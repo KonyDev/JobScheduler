@@ -1,0 +1,93 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s01c5298d25e4f97847c9cab7fa91cb5",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmScheduler",
+        "platform": "android",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "",
+    "groupcells": false,
+    "id": "listBoxConstraintsVaule1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b073fd9a1f5340fe8b059897a9cda83f",
+    "masterdata": [
+        [
+            "small",
+            "30 KB"
+        ],
+        [
+            "medium",
+            "500KB"
+        ],
+        [
+            "5mb",
+            "5MB"
+        ],
+        [
+            "20mb",
+            "20MB"
+        ],
+        [
+            "100mb",
+            "100MB"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxConstraints",
+    "pf": "frmScheduler",
+    "selectedkey": "small",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "small",
+        "30 KB"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tabpaneId": "tabPaneScheduler",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
