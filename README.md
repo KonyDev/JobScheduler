@@ -17,3 +17,5 @@ Application to showcase the JS bindings feature of Kony Studio using JobSchedule
 # Supported platforms:
 **Mobile**
  * android
+
+**Supported KonyStudio Version:** 7.0
