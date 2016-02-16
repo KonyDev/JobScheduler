@@ -1,5 +1,5 @@
 # KonyNativeFunctionAPI_JobScheduler
-Application to showcase the JS bindings feature of Kony Studio using JobScheduler process.
+Application to showcase the Kony native function api feature of Kony Studio using JobScheduler process.
 - This application schedules the job to download file in background.
 - The downloading job can be configured 
 	- Over wi-fi or mobile data.
