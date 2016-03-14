@@ -18,4 +18,4 @@ Application to showcase the Kony native function api feature of KonyVisualizer u
 **Mobile**
  * android
 
-**Supported Kony Visualizer Version:** 7.0
+**Supported Kony Visualizer Enterprise  Version:** 7.0
