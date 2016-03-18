@@ -9,10 +9,12 @@ Application to showcase the Kony native function api feature of KonyVisualizer u
 
 # To run this app
 
-1. Download the project
-2. Import project to your Kony IDE(Kony Visualizer).
-3. Enable Mobile First Api's in the project setting >native >android.
-4. Build & run the app for android.
+1. Download the project zip file.
+2. Unzip the project to any folder
+3. Launch Kony Visualizer Enterprise version 7.0.
+4. Import the project by selecting the JobScheduler folder.
+5. Enable Mobile First Api's in the project setting >native >android.
+6. Build & run the app for android.
 
 # Supported platforms:
 **Mobile**
