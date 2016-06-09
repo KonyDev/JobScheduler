@@ -82,7 +82,6 @@
     <attributes name="proximity" value="false"/>
     <attributes name="ID_REQ_FRONTCAMERA" value="false"/>
     <attributes name="apmorientationchange" value="false"/>
-    <attributes name="desktopwebresizecontent" value="false"/>
     <attributes name="win8packagedisplaynamekey" value="JobScheduler"/>
     <attributes name="spawindowstabbasefontsize" value="12"/>
     <attributes name="MANAGE_ACCOUNTS" value="true"/>
@@ -155,6 +154,7 @@
     <attributes name="READ_FRAME_BUFFER" value="true"/>
     <attributes name="wp8fliplargekey" value=""/>
     <attributes name="BIND_DEVICE_ADMIN" value="true"/>
+    <attributes name="build" value="debug"/>
     <attributes name="MANAGE_APP_TOKENS" value="true"/>
     <attributes name="Pictures_Library_Access" value="true"/>
     <attributes name="RECEIVE_BOOT_COMPLETED" value="true"/>
@@ -194,7 +194,7 @@
     <attributes name="win8descriptionkey" value="Sample Test Application"/>
     <attributes name="extendTop" value="false"/>
     <attributes name="REORDER_TASKS" value="true"/>
-    <attributes name="iphonebundleidentifierkey" value="com.kony.JobScheduler"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kone.JobScheduler"/>
     <attributes name="WP8_ID_CAP_NETWORKING" value="true"/>
     <attributes name="studiovizproject" value="true"/>
     <attributes name="ID_CAP_SENSORS" value="true"/>
@@ -228,7 +228,7 @@
     <attributes name="Location" value="true"/>
     <attributes name="manifest_tag_attrs" value=""/>
     <attributes name="ACCESS_SURFACE_FLINGER" value="true"/>
-    <attributes name="currentgaversion" value="7.0.0.Beta1_v201512101054_r1"/>
+    <attributes name="currentgaversion" value="7.0.2.GA_v201605261553"/>
     <attributes name="mwhttpsportkey" value="443"/>
     <attributes name="pathkey" value=""/>
     <attributes name="vendornamekey" value="KonyLabs"/>
@@ -410,7 +410,6 @@
     <attributes name="wp8textnotificationkey" value="false"/>
     <attributes name="iphoneurlscheme" value=""/>
     <attributes name="videosLibrary" value="false"/>
-    <attributes name="watchenabled" value="false"/>
     <attributes name="STATUS_BAR" value="true"/>
     <attributes name="access_shared" value="false"/>
     <attributes name="blockedChatMessages" value="false"/>
@@ -463,6 +462,5 @@
     <attributes name="androidenablejsbindings" value="true"/>
     <attributes name="camerasettings" value=""/>
     <attributes name="pathprefixkey" value=""/>
-    <attributes name="build" value="release"/>
     <attributes name="defaultlocalekey" value=""/>
 </properties>
