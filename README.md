@@ -1,4 +1,4 @@
-# KonyNativeFunctionAPI_JobScheduler
+# JobScheduler
 Application to showcase the Kony native function api feature of KonyVisualizer using JobScheduler process.
 - This application schedules the job to download file in background.
 - The downloading job can be configured 
@@ -10,7 +10,7 @@ Application to showcase the Kony native function api feature of KonyVisualizer u
 # To run this app
 
 1. Download the project zip file.
-2. Unzip the project to any folder
+2. Extract the project to any folder, zip the main project file and import into the visualizer.
 3. Launch Kony Visualizer Enterprise version 7.0.
 4. Import the project by selecting the JobScheduler folder.
 5. Enable Mobile First Api's in the project setting >native >android.
