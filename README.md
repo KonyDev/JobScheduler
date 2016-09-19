@@ -22,4 +22,4 @@ Application to showcase the Kony native function api feature of KonyVisualizer u
 
 **Supported Kony Visualizer Enterprise  Version:** 7.0
 
-Certified4KonyCommunity7.1.1 
+CertifiedAtKonyCommunity
